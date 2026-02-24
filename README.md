@@ -1,6 +1,6 @@
 # HTML & CSS Assignments 🎨
 
-Collection of web projects from my HTML/CSS coursework.
+Collection of web projects from my HTML/CSS coursework — **completely redesigned with fresh, modern themes!**
 
 ---
 
@@ -8,25 +8,36 @@ Collection of web projects from my HTML/CSS coursework.
 
 ### HTML Projects (`/html`)
 
-| Project          | Description                                    |
-| ---------------- | ---------------------------------------------- |
-| **Portfolio**    | Personal portfolio with projects & skills      |
-| **WebDev**       | Web dev agency landing page (brainrot edition) |
-| **FormFlow**     | Online/offline form builder SaaS page          |
-| **Canvas**       | Notion-style workspace landing page            |
-| **Media**        | Humorous news website parody                   |
-| **Coffee Shop**  | Coffee shop menu & info page                   |
-| **Online Store** | Basic e-commerce landing page                  |
+| Project          | New Design Theme | Description |
+| ---------------- | ---------------- | ----------- |
+| **Coffee Shop**  | ☕ Warm vintage coffee house with animated steam cup | Menu & ordering page with elegant brown tones |
+| **FormFlow**     | 💜 Modern SaaS with purple/pink gradient | Online/offline form builder landing page |
+| **Media**        | 📰 Bold newspaper style with red accents | Humorous news website parody |
+| **Portfolio**    | 💻 Dark tech theme with teal gradients | Personal portfolio with code block visual |
+| **WebDev**       | 🚀 Professional dark theme with emerald accents | Web dev agency landing page |
 
 ### CSS Projects (`/css`)
 
-| Project         | Description                             |
-| --------------- | --------------------------------------- |
-| **Photography** | Minimalist photography portfolio "LENS" |
-| **Nursery**     | Plant nursery with nature theme 🌿      |
-| **Bookstore**   | Book recommendation cards               |
-| **Surfing**     | Surfing lessons pricing & spots         |
-| **SVG**         | Custom "biswyaa" SVG artwork            |
+| Project         | New Design Theme | Description |
+| --------------- | ---------------- | ----------- |
+| **Bookstore**   | 📚 Classic bookstore with animated DNA bases | Genetic engineering textbook showcase |
+| **Canvas**      | 🎨 Clean productivity app with indigo accents | Notion-style workspace landing page |
+| **Nursery**     | 🌿 Botanical green theme with plant illustrations | Plant nursery with fresh colors |
+| **Photography** | 📷 Elegant dark gallery with gold accents | Minimalist photography portfolio "LENS" |
+| **Surfing**     | 🌊 Ocean-inspired with wave animations | Surfing lessons pricing & spots |
+| **SVG**         | ✨ Professional brand guidelines page | Custom "biswyaa" SVG logo showcase |
+
+---
+
+## 🎨 Design Updates
+
+All 11 websites have been **completely redesigned** with:
+- ✅ Unique visual themes for each project
+- ✅ Modern color palettes and gradients
+- ✅ Improved typography and spacing
+- ✅ Custom animations and interactions
+- ✅ Fully responsive layouts
+- ✅ Consistent navigation patterns
 
 ---
 
@@ -34,15 +45,38 @@ Collection of web projects from my HTML/CSS coursework.
 
 1. Navigate to any project folder
 2. Open `index.html` in a browser
-3. All projects are responsive
+3. All projects are responsive and mobile-friendly
 
 ---
 
 ## 💻 Tech Stack
 
-- HTML5
-- CSS3 (Grid, Flexbox, Animations)
-- SVG
+- **HTML5** - Semantic markup
+- **CSS3** - Grid, Flexbox, Animations, Gradients
+- **SVG** - Scalable vector graphics
+- **Responsive Design** - Mobile-first approach
+
+---
+
+## 📁 Project Structure
+
+```
+HTML-CSS Assignments/
+├── html/
+│   ├── coffeeshop/     # Coffee shop with vintage theme
+│   ├── form/           # FormFlow SaaS landing page
+│   ├── media/          # Brainrot news parody
+│   ├── portfolio/      # Personal portfolio
+│   └── webdev/         # Web dev agency page
+├── css/
+│   ├── bookstore/      # Book showcase with DNA animation
+│   ├── canvas/         # Productivity app landing
+│   ├── nursery/        # Plant nursery
+│   ├── photography/    # Photography portfolio
+│   ├── surfing/        # Surf school
+│   └── svg/            # SVG logo brand guidelines
+└── README.md
+```
 
 ---
 
@@ -58,4 +92,4 @@ Collection of web projects from my HTML/CSS coursework.
 
 ---
 
-**Total Projects:** 12 | **Brainrot Level:** Maximum 💀
+**Total Projects:** 11 | **Redesigned:** ✅ | **Brainrot Level:** Maximum 💀
